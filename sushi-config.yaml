@@ -18,7 +18,7 @@ license: CC-BY-4.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 publisher:
   name: Unscripted Rx
   url: https://www.unscripted-rx.com
-  # email: test@example.org
+  email: hello@unscripted-rx.com
 contact:
   - name: Brian K. Fung
     telecom:
