@@ -1,0 +1,13 @@
+{
+  "name": "pharmacy-fhir-ig",
+  "private": true,
+  "description": "Pharmacy FHIR Implementation Guide by Unscripted Rx",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "sushi": "sushi build .",
+    "build": "sushi build . && ./_build.sh nosushi"
+  },
+  "devDependencies": {
+    "fsh-sushi": "3.21.0"
+  }
+}
