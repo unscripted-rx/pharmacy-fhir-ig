@@ -8,10 +8,8 @@ and authored by [Brian K. Fung](https://www.briankfung.com).
 The build of this FHIR IG will be livestreamed for educational and reference purposes.
 |Episode|Description|
 |--|--|
-- [Episode 1: Basic pharmacist representation](https://youtube.com/live/FKP-nit5t0k?feature=share)
-- [Episode 2: Richer modeling for degrees, licenses, and board certifications](https://youtube.com/live/idUk0Y7YGVc?feature=share)
-
-**Continuous build:** https://build.fhir.org/ig/unscripted-rx/pharmacy-fhir-ig/
+|Episode 1| [Basic pharmacist representation](https://youtube.com/live/FKP-nit5t0k?feature=share)
+|Episode 2| [Richer modeling for degrees, licenses, and board certifications](https://youtube.com/live/idUk0Y7YGVc?feature=share)
 
 This guide is early and changes often. It is not an HL7 publication.
 
