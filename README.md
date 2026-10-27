@@ -7,9 +7,19 @@ licenses, degrees and board certifications. Authored by [Brian K. Fung](https://
 - **Read the guide:** [build.fhir.org/ig/unscripted-rx/us-pharmacy-fhir-ig](https://build.fhir.org/ig/unscripted-rx/us-pharmacy-fhir-ig/),
   the latest CI build.
 - **Watch it being built:** [Modeling US Pharmacy using HL7 FHIR](https://www.youtube.com/playlist?list=PLP28Q1m8c58E),
-  streamed to YouTube, LinkedIn, Facebook and Twitch. The guide's home page lists each episode.
+  streamed to YouTube, LinkedIn, Facebook and Twitch.
 
 This guide is early and changes often. It is not an HL7 publication.
+
+## Livestreams
+
+The guide is being built live, for education and reference. Every episode is in the
+[playlist](https://www.youtube.com/playlist?list=PLP28Q1m8c58E); the guide's home page lists them too.
+
+| Episode | What it covers |
+| --- | --- |
+| [Episode 1](https://www.youtube.com/watch?v=FKP-nit5t0k) | Basic pharmacist representation |
+| [Episode 2](https://www.youtube.com/watch?v=idUk0Y7YGVc) | Richer modeling for degrees, licenses, and board certifications |
 
 ## Building locally
 
