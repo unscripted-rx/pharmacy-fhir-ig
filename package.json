@@ -1,7 +1,7 @@
 {
-  "name": "pharmacy-fhir-ig",
+  "name": "us-pharmacy-fhir-ig",
   "private": true,
-  "description": "Pharmacy FHIR Implementation Guide by Unscripted Rx",
+  "description": "US Pharmacy FHIR Implementation Guide by Unscripted Rx",
   "license": "CC-BY-4.0",
   "scripts": {
     "sushi": "sushi build .",
